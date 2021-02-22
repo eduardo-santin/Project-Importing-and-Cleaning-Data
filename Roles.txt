@@ -1,0 +1,27 @@
+﻿# Project-Importing-and-Cleaning-Data
+Data Camp Project: Project: Importing and Cleaning Data
+
+
+
+
+* Roles
+   * Miguel A Hernandez: Recorder
+   * Daniel A Suazo-Arroyo: Manager
+   * Eduardo Santin: Speaker
+   * Stephanie Ramos-Camacho: Reflector
+* Contactos(emails)
+   * eduardo.santin@upr.edu 
+   * daniel.suazo@upr.edu 
+   * miguel.hernadez17@upr.edu
+   * stephanie.ramoscamacho@upr.edu
+ 
+* Reuniones:
+   * Miercoles:
+      * Nos dividimos los roles,  el manager creó una página de google colab y nos dividimos las 10 secciones, 2 cada uno.
+      * Daniel: 1-2
+      * Eduardo:3-4
+      * Stephanie: 5-6
+      * Miguel: 7-8
+      * Durante la semana cada cual trabajó con su respectiva sección.
+   * Lunes: 
+      * Trabajamos cualquier error o duda que haya surgido de cada sección y se trabajó en las últimas dos secciones.
